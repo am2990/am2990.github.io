@@ -1,0 +1,64 @@
+# Site wide configuration
+
+title:            Uncanny Mehra
+locale:           en_US
+url:              
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  
+categories: [sample-posts, research, blog, project]
+  
+  
+# Site owner
+owner:
+  name: Apurv Mehra
+  avatar: bio-photo.jpg
+  bio: "me.transforming('developer','researcher')"
+  email: apurv09064@iiitd.ac.in
+  gmail: apurv.mehra@gmail.com
+  disqus-shortname: 
+  twitter: apurvmehra
+  facebook: #username
+  google:
+    plus: #username
+    analytics: 
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
+  github: am2990
+  stackoverflow: #http://stackoverflow.com/users/123456/username
+  linkedin: apurv-mehra/43/a5b/6b4
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "TODO"]
