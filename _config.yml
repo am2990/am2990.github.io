@@ -2,14 +2,14 @@
 
 title:            Uncanny Mehra
 locale:           en_US
-url:              
+url:              https://am2990.github.io             
 
 
 # Jekyll configuration
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
