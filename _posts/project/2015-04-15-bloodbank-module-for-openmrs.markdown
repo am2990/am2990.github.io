@@ -3,7 +3,7 @@ layout: post
 title: "Bloodbank Module for OpenMRS"
 modified:
 categories: project
-excerpt:
+excerpt: someofoofienfiuf
 tags: []
 image:
   feature:
