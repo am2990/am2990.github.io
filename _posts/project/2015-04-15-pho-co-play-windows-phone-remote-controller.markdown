@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "pho-CO-play: Windows Phone Remote Controller"
+title: "pho-CO-play"
 modified:
 categories: project
-excerpt:
+excerpt: Windows Phone Based Remote Controller
 tags: []
 image:
   feature:

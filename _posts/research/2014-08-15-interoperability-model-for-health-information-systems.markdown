@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Interoperability Model for Health Information Systems"
+title: "SDMX-HD"
 modified:
 categories: research
-excerpt:
+excerpt: Insignt into an Interoperability Model for HIS. 
 tags: []
 image:
   feature:

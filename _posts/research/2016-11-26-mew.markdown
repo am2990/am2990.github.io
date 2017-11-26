@@ -1,0 +1,12 @@
+---
+layout: post
+title: Mew
+modified:
+categories: research
+excerpt: Intelligent Query Allocation in Crowd Sensing Systems.
+tags: []
+image:
+  feature:
+date: 2016-11-26T20:28:47+05:30
+---
+

@@ -1,0 +1,12 @@
+---
+layout: post
+title: BD Dive
+modified:
+categories: project
+excerpt: Dive into the Big Data World to Build an Analytical Warehouse.
+tags: []
+image:
+  feature:
+date: 2017-11-26T20:46:16+05:30
+---
+

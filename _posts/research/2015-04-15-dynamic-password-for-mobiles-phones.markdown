@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Dynamic Password for Mobiles Phones"
+title: "DynamiKPass"
 modified:
 categories: research
-excerpt:
+excerpt: Exploring Ways to secure our phones.
 tags: []
 image:
   feature:

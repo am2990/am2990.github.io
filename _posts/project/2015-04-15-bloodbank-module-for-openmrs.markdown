@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Bloodbank Module for OpenMRS"
+title: "Blood Bank"
 modified:
 categories: project
-excerpt: someofoofienfiuf
+excerpt: A Blood Bank Module for OpenMRS
 tags: []
 image:
   feature:

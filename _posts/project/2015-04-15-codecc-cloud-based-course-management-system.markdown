@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "CODECC: Cloud Based Course Management System"
+title: "CODECC"
 modified:
 categories: project
-excerpt:
+excerpt: A Cloud Based Course Management System
 tags: []
 image:
   feature:

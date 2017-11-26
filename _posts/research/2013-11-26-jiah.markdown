@@ -1,0 +1,12 @@
+---
+layout: post
+title: Jiah
+modified:
+categories: research
+excerpt: A Telemedince App for Developing Countries.
+tags: []
+image:
+  feature:
+date: 2013-11-26T20:30:15+05:30
+---
+

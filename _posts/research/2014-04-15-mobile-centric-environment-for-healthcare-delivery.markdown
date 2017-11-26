@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Mobile Centric Environment for Healthcare Delivery"
+title: "iCHS"
 modified:
 categories: research
-excerpt:
-tags: [mHealth,Spring,Sensors]
+excerpt: An Open Exchange for Healthcare Data.
+tags: [mHealth, Spring, Sensors]
 image:
   feature:
 date: 2014-04-15T18:18:43+05:30
 ---
 
-##Concept/Idea
+## Concept/Idea
 
 Availability of  healthcare  data  allows  governments to  analyze  effectiveness  of  their  policies,  monitor  spread  of a  disease,  etc.  Data  collection  for  public  healthcare  is  still  a big challenge, especially in developing countries where most of the  data  collection  is  still  done  on  paper.  Therefore,  recently many  tools,  e.g.  ODK,  Commcare,  have  become  available  that allow  data  collection  on  mobile  devices.  Similarly, during  data collection, use of health sensors to measure some of the health parameters, e.g. ECG, Oxygen Saturation, is increasing, but then the data measured by sensors is often entered manually to the mobile  device.  Finally,  the  data  collected  on  a  mobile  device is  then  entered  into  a  database  (either  an  EMR  or  a  general database)  manually,  which  is  time  consuming  and  introduces error due to manual input. While partial solutions that enable connectivity  of  sensors  to  mobile  device  or  mobile  device  to  a speciﬁc EMR are available, there is a lack of a comprehensive end-to-end solution.
 
