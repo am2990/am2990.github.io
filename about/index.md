@@ -16,11 +16,10 @@ image:
 
 **Hola @all**, that's me but before you ask more, some pertinent questions very succinctly answered.
 
-# Who am I ?
-Just another developer who is also an aspiring entrepreneur and researcher. A short paragraph on why I do what I do and what I believe in. 
+# Who am I?
+Just another developer who is also an aspiring entrepreneur and researcher. Most of the work I have undertaken can broadly fall in the domain of Information Communication and Technology for Development **(ICTD)**. I believe technology when used(_designed and deployed_) appropriately can result in positive societal change and even development in due course. I not only want to work towards designing such novel systems but also want to continue my efforts in order to understand what the are the preconditions which are essential to create an ecosystem for technology adoption and use.
 
-# What have I been up to ?
-A lot of things, a short parapgraph on the work choices etc.
+# Where did I work?
 
 |||||
 |-------------------------------------------------------|----------|------------------------|------------------------------|
@@ -31,8 +30,7 @@ A lot of things, a short parapgraph on the work choices etc.
 ![alt text]({{ site.url }}/images/hisp-india-logo.png)  | 2011     | *SDE Intern*           | **HISP - India**             |
 
 
-# Where did I study ?
-Some things to say about myself and my study.
+# Where did I study?
 
 |||||
 |--|--|--|--|
