@@ -27,4 +27,10 @@ sitemap: false
 @import "vendor/magnific-popup/magnific-popup";
 //@import "vendor/google/fonts";
 
-.nav_topic { font-size: 30px; text-decoration: none; }
+.nav_topic { 
+	font-size: 30px; text-decoration: none; 
+}
+
+.double {
+	border-top: 5px double #8c8b8b;
+}

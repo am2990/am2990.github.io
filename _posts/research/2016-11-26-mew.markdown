@@ -5,8 +5,70 @@ modified:
 categories: research
 excerpt: Intelligent Query Allocation in Crowd Sensing Systems.
 tags: []
+img: mew-logo.PNG
 image:
   feature:
 date: 2016-11-26T20:28:47+05:30
 ---
 
+## Background
+Mobile CrowdSensing (MCS) applications rely on physical sensor
+data collected by mobile devices of a large number of participants.
+Participating devices are required to execute sensing tasks with
+certain requirements such as geographical location or data quality.
+Often, it is sufficient to execute the tasks on a subset of devices
+to avoid data redundancy and improve energy efficiency. Since
+mobile devices are resource-constrained, it becomes important to
+ensure a load-balanced allocation of sensing tasks to this subset
+of participants, which will eventually ensure longer lifetimes of
+devices and therefore, higher task service rates.
+To take into account the resource-constrained nature of participants,
+we consider the dynamic parameters of participants (such
+as battery level and link speed) and their static parameters (such
+as sensor power rates and the number of sensors available) to propose
+a load-balanced task allocation algorithm for MCS systems.
+Our algorithm is based on the model of device ‘richness’ which is
+a measure of their available parameter levels. Based on the richness,
+we propose two variants of our algorithm - greedy allocation,
+and weighted-random allocation. We compare our algorithms with
+three baseline approaches using simulations. Using a quantitative
+measure of inequality distribution - Gini coefficient - we show that
+our algorithm achieves perfect load balancing when the participants
+have homogeneous configurations. Further, using our approach,
+we are able to improve the lifetime of the system by approx. X%
+which eventually results in a Y% improvement in the task service
+rate.
+
+## Contributions
+1. We propose a model to evaluate the richness of devices in
+terms of their capabilities (resource levels). Our model is inspired
+by the Linux-based Completely Fair Scheduler
+(CFS) which ensures fair allocation of CPU time to processes
+based on their priorities.
+2. We propose two variants, NV-Greedy and NV-Weighted,
+of the load-balanced task allocation algorithm based on
+our device richness model and compare their performance
+with three baseline algorithms - Random, RoundRobin,
+and MinAST , using extensive simulations.
+3. We objectively evaluate the effectiveness of our algorithm
+using a quantitative measure - Gini coefficient . Gini
+coefficient is commonly used in the field of economics to
+measure the inequalities in income distribution of nature.
+We use it to measure the inequalities in the distribution of
+richness levels of devices.
+
+## System Design
+![Mew Architecture]({{ site.url }}/images/mew-arch.PNG)
+
+## Results
+Our results show that the proposed
+variants improve the fairness in task allocation by upto 2-3%, which
+results in an additional availability of upto 665 minutes of devices
+with the system while improving the location accuracy of collected
+sensor data. This is a significant gain which will increase with
+the increase in number of devices available with the crowdsensing
+system.
+
+## Publications
+1. Achieving Load Balanced, Dynamic Task Allocation in Mobile
+Crowdsensing Systems.[pdf](http://www.mobileeducationkit.net/doc/Mek7-FULLTEXT01.pdf#page=119)

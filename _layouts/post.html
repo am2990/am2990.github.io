@@ -38,6 +38,8 @@
         <h1><a href="{{ page.link }}">{{ page.title }}</a></h1>
       {% else %}
         <h1><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
+        <h3><i><a href="{{ site.url }}{{ page.url }}" title="{{ page.title }}">{{ page.excerpt }}</a></i></h3>
+        <hr class="double">
       {% endif %}
     </div><!--/ .headline-wrap -->
     <div class="article-wrap">

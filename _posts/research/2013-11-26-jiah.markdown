@@ -5,8 +5,36 @@ modified:
 categories: research
 excerpt: A Telemedince App for Developing Countries.
 tags: []
+img: jiah-logo.png
 image:
   feature:
 date: 2013-11-26T20:30:15+05:30
 ---
 
+## Background
+One of the largest challenges that continue to cripple the developing
+world is lack of trained physicians. Even though there is no scarcity
+of semi-trained labor force, many health workers in many developing
+countries are not able to provide satisfactory care because of not having
+enough proficiency. Developing countries like India also are also
+weighed down with the load of infectious and chronic diseases that
+usually have a quite expensive treatment. It is crucial that focus of the
+solution to the aforementioned problem is shifted towards prevention
+This can be compensated by appropriate screening of patients by partially trained
+health workers. 
+
+## Concept
+We developed Jiah, a Java based mobile phone application, that
+can be used to assist and connect health workers and trained medical professionals
+through a backend Medical Record System (we use OpenMRS at the backend).
+Jiah is an extension of Sana, a similar application currently available for android
+phones, and was developed to cater to the majority of Java based phones currently
+available in developing countries. Using XForms for creating our mobile
+application provides the system users with the flexibility to create a wide variety
+of forms with ease. We also performed a pilot study using Jiah.
+
+## System Design
+![Jiah Architecture]({{ site.url }}/images/jiah-arch.PNG)
+
+## Publications
+1. Khurana, R., Sharma, S., Mehra, A., Yadav, D., Naik, V., & Singh, A.(2012). **"Jiah: Healthcare goes mobile"**, pp. 102-106.[pdf](http://www.mobileeducationkit.net/doc/Mek7-FULLTEXT01.pdf#page=119)
